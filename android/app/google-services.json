@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914828829962",
+    "project_id": "imitation-game-vansh",
+    "storage_bucket": "imitation-game-vansh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914828829962:android:53b81f8f09a1f036acc6f3",
+        "android_client_info": {
+          "package_name": "com.example.ghost_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqfDNbpt5j2TzjErNgIBfA48Oae2Eib48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
