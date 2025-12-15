@@ -8,7 +8,7 @@ import 'firebase_options.dart';
 // ---------------------------------------------------------
 // 🔑 TODO: PASTE YOUR API KEY BELOW (Don't keep the quotes if you don't need them, but usually String needs "")
 // Get it from: https://aistudio.google.com/app/apikey
-const String GEMINI_API_KEY = "AIzaSyAVYMFiCtLQrk4cjOq30JkOUI1TqV6O4jg"; 
+const String GEMINI_API_KEY = ""; 
 // ---------------------------------------------------------
 
 void main() async {
