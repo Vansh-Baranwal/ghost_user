@@ -1,0 +1,13 @@
+Launching lib\main.dart on Chrome in debug mode...
+Waiting for connection from debug service on Chrome...          
+lib/main.dart:64:34: Error: Member not found: 'Content.system'.
+      systemInstruction: Content.system("""
+                                 ^^^^^^
+lib/main.dart:64:7: Error: No named parameter with the name 'systemInstruction'.
+      systemInstruction: Content.system("""
+      ^^^^^^^^^^^^^^^^^
+/C:/Users/vansh/AppData/Local/Pub/Cache/hosted/pub.dev/google_generative_ai-0.2.3/lib/src/model.dart:70:11: Context: Found this candidate, but the arguments don't match.
+  factory GenerativeModel({
+          ^
+Waiting for connection from debug service on Chrome...             38.0s
+Failed to compile application.
